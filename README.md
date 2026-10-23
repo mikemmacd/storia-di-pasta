@@ -28,7 +28,9 @@ Domain: https://storiadipasta.com
 Repository: https://github.com/mikemmacd/storia-di-pasta
 Target Vercel workspace: `michael-macdonalds-projects-91c3e4ca` (the owner's selected Chrome account).
 
-Build settings: Vite, `npm run build`, output `dist`. Production branch: `main`. Deployment should be triggered by GitHub pushes and built in Vercel's cloud, rather than by uploading local source with the CLI.
+Build settings: Vite, `npm run build`, output `dist`. Production branch: `main`. The repository is connected to this workspace. Pushes to `main` trigger production builds in Vercel’s cloud.
+
+Cloud production URL: https://storia-di-pasta-delta.vercel.app
 
 Cloudflare manages DNS. The root domain uses a DNS-only CNAME pointing to the destination shown in Vercel's domain settings. Keep nameservers and unrelated records unchanged. HTTPS was verified on the original deployment; verify again after transferring the domain.
 
