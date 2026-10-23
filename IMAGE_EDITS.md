@@ -1,5 +1,11 @@
 # Guest photo edits
 
+## Il Patio staff placement correction
+
+Built-in imagegen edit, saved as `public/images/exterior.jpg` (shared by the hero and Il Patio). Staff now stands inside, behind the main window glazing and wooden frame; guests and restaurant are preserved.
+
+Use case: precise-object-edit. Edit the attached Il Patio exterior restaurant photo with ONE narrow correction: the apron-wearing staff member currently centered at the large rectangular window behind the seated guests must be clearly INSIDE the restaurant, BEHIND the main window glass and its wooden frame/mullions, not outside at the exterior counter or in front of the window. Keep the same staff identity and clothing, in approximately the same location but positioned naturally just inside, with the glass reflections and existing frame visibly in front of the person. Keep their arms and torso inside; no body parts on the exterior customer side. Restore the glazed window and background naturally where needed. Keep the small arched wine window to the right unchanged. Preserve all guests exactly, all faces, clothing and poses. Preserve the restaurant exactly: facade, doors, main window size/shape/frame/mullions, small arched wine window, signage 'STORIA DI PASTA', 'Ciao!', number '593/25', shutters, stool and table arrangement, plants, wall textures, warm lighting, reflections, camera angle, perspective, crop and portrait aspect ratio. Do not redesign, move the camera, move guests, add people, enlarge windows or alter signage. Photorealistic and seamless. Change only the staff member's depth/placement relative to the existing main window.
+
 Created with the built-in image generation tool. Original supplied photographs remain untouched in `assets/`. Optimized website replacements live in `public/images/exterior.jpg`, `public/images/sala.jpg`, and `public/images/cantina.jpg`. `cortile.jpg` is unchanged because it contains kitchen staff rather than the repeated guests.
 
 ## Shared prompt
@@ -23,4 +29,3 @@ Replace all five foreground diners and all background guests with completely new
 ## Review
 
 Compare each output against its original for framing, architecture, furniture, signage and lighting; compare all three casts for repeated identities. Preserve natural hands and candid interactions.
-
