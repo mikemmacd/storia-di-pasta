@@ -21,3 +21,4 @@ header{position:relative;z-index:2}
 
 /* Flat white mark, sitting directly on the green header. */
 .window-toggle{background:transparent;color:#fff;border-radius:0;padding:0;box-shadow:none}.window-toggle:hover{background:transparent;box-shadow:none}.window-toggle:focus-visible{outline:2px solid #fff;outline-offset:5px;border-radius:3px}
+.window-toggle{--window-ground:#263d32}.window-door{transform-origin:56px 52px}
