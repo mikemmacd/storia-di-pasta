@@ -48,3 +48,11 @@ Research did not establish that this is Bangkok's first wine window, so that cla
 ## Checks performed
 
 Production build; desktop and 390px mobile browser review; day/night click and arrow-key interaction. Deployment status verified through Vercel CLI. No backend or checkout has been added without a defined operational requirement.
+
+### Current DNS requirement
+
+Vercel verification on 2026-10-23 requested a DNS-only CNAME at `@` pointing to `c65183f767cf9246.vercel-dns-017.com`. Cloudflare proxy should be off. Re-verify with Vercel before applying if configuration has changed. The custom domain is attached but is not live until DNS is configured.
+
+### Repository status
+
+The implementation is committed locally. GitHub push failed because this machine has no usable HTTPS GitHub credentials. Original `assets/` files remain untouched and untracked; optimized public assets are included in the implementation commit.
