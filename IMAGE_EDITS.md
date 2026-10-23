@@ -1,5 +1,7 @@
 # Guest photo edits
 
+**Current La Sala image:** restored from the owner’s original `assets/SDP - La Sala.PNG`. The guest replacements, reflection edits and mirror patina below are historical experiments and are no longer used for La Sala.
+
 ## La Sala antique mirror patina
 
 Built-in imagegen edit replacing `public/images/sala.jpg`. At the owner's request, the mirror now has heavier antique silvering and mottled patina, leaving only faint, indistinct guest reflections. Supersedes the earlier clear-reflection treatment.
