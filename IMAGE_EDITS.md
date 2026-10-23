@@ -1,5 +1,18 @@
 # Guest photo edits
 
+## La Sala mirror correction
+
+Built-in imagegen edit, saved as `public/images/sala.jpg`. Added diner reflections inside the left faux-window mirror and corrected their reflected viewpoints. The original source is preserved in `assets/` and the prior website version in Git history.
+
+### Initial prompt
+
+Use case: precise-object-edit. Edit this exact La Sala restaurant photograph. The large white-mullioned faux window on the LEFT wall surrounded by green shutters is a MIRROR, not a real window. It currently reflects the lights and room but incorrectly omits the diners. Add physically plausible mirror reflections of the existing guests in the appropriate visible lower mirror panes. Especially reflect the short-haired woman in the dusty blue shirt closest to the mirror and the bespectacled man in the cream polo across from her, with the correct reflected viewpoints, poses, clothing, scale, relative positions and candlelit color. Include portions of the other existing diners only where the mirror angle and field of view allow. Reflections must stay inside the mirror and be occluded by the existing white mullions/frame, with correct perspective and depth, not additional people sitting in the room or arbitrary front-facing duplicates. Preserve the existing mirror's reflection of the room/lanterns, combining the diners naturally. Preserve ALL pixels outside the mirror as closely as possible: same four real diners, identities, expressions, clothing, hands, wine glasses, table settings, chairs, wine shelf, green shutters, plaster, stone, ceiling beams, lighting, camera position, perspective and 4:3 framing. Do not redesign or reframe. Do not change any real person or add guests. Only correct the missing reflections in the LEFT mirror.
+
+### Viewpoint refinement
+
+Use case: precise-object-edit. Correct only the reflection inside the white-framed mirror on the LEFT wall of this restaurant photo. This is a mirror disguised as a window. The current reflection looks like an unflipped miniature duplicate; it needs actual reflected viewpoints. Within the mirror ONLY, reflect the four existing diners with mirror-reversed orientation and correct angle to the wall. The cream-polo man with glasses should be seen from his opposite reflected side, his face oriented toward his dining partner, not the same left-facing camera view as the real man. The short-haired blue-shirt woman should be seen from her opposite reflected side, with the complementary profile and visible pose, not the same back-of-head view as the foreground copy. The reflected red-blouse woman and olive-shirt man must likewise show opposite viewpoints, not copies. Use perspective geometry of a planar wall mirror, lower mirror panes only; keep white mullions occluding the reflections. Preserve reflected tables, lights and believable positioning. Do NOT introduce real new guests. Outside the left mirror, preserve ALL real diners, faces, poses, furniture, architecture, bottles, lighting and camera framing unchanged. Seamless photo edit, no redesign.
+
+
 ## Il Patio staff placement correction
 
 Built-in imagegen edit, saved as `public/images/exterior.jpg` (shared by the hero and Il Patio). Staff now stands inside, behind the main window glazing and wooden frame; guests and restaurant are preserved.
