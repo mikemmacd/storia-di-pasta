@@ -18,3 +18,6 @@ header nav{font-size:16px;font-weight:600;line-height:1.4}header nav a{display:i
 @media(prefers-reduced-motion:reduce){.window-door,.window-glass,.window-cheer{transition:none!important;transition-delay:0s!important}.window-toggle[aria-pressed=true] .window-door{visibility:hidden}.window-toggle[aria-pressed=true] .window-glass{transform:none}}
 
 header{position:relative;z-index:2}
+
+/* Flat white mark, sitting directly on the green header. */
+.window-toggle{background:transparent;color:#fff;border-radius:0;padding:0;box-shadow:none}.window-toggle:hover{background:transparent;box-shadow:none}.window-toggle:focus-visible{outline:2px solid #fff;outline-offset:5px;border-radius:3px}
