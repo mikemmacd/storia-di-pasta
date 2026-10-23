@@ -1,5 +1,12 @@
 # Guest photo edits
 
+## La Sala antique mirror patina
+
+Built-in imagegen edit replacing `public/images/sala.jpg`. At the owner's request, the mirror now has heavier antique silvering and mottled patina, leaving only faint, indistinct guest reflections. Supersedes the earlier clear-reflection treatment.
+
+Prompt: Use case: precise-object-edit. Make ONE localized change to this exact restaurant photo: heavily age/patinate the MIRROR PANES inside the faux window on the LEFT wall, surrounded by green shutters and divided by white mullions. Apply convincing antique mirror silvering, dense irregular smoky warm grey/bronze oxidation, dark speckles and cloudy mottling across ALL mirror panes, with stronger foxing at pane edges. Make the reflected diners and their faces BARELY VISIBLE, just very faint unrecognizable ghost silhouettes and soft amber suggestions of lantern glow behind the aged silvering. No clear reflected faces or recognizable duplicate people should remain. This must look like attractive authentic aged mercury-style mirror glass in a rustic Tuscan room, not dirty opaque paint, frosted bathroom glass, a new wall, or a digital blur. Retain faint reflective depth and scattered highlights, but suppress the existing distinct human reflections almost completely. Preserve the exact mirror shape and size, white frame and mullions, green shutters. Preserve EVERYTHING outside the mirror panes: all four real diners' identities, faces, clothes, hands and poses, tables, food, drinks, chairs, plaster walls, wine shelf, ceiling beams, warm lighting, camera angle, crop and aspect ratio. No redesign, no new people, no reframing. Edit only the reflective glass surface within the existing left mirror.
+
+
 ## La Sala mirror correction
 
 Built-in imagegen edit, saved as `public/images/sala.jpg`. Added diner reflections inside the left faux-window mirror and corrected their reflected viewpoints. The original source is preserved in `assets/` and the prior website version in Git history.
