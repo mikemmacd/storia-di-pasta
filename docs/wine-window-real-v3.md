@@ -1,0 +1,9 @@
+# Wine-window close-up, version 3
+
+Edited using built-in image generation from `public/images/wine-window-real-v2.jpg`: removed the address plaque and tightened the framing, preserving the bell, Ciao!, door, etched VINO and wooden counter. This remains a generated reconstruction, not an unedited photograph. Previous versions are retained.
+
+Website assets: `public/images/wine-window-real-v3.jpg` and `public/images/wine-window-real-v3-small.jpg`.
+
+## Final prompt
+
+Edit the supplied image precisely. Remove the wooden address/number plaque on the right side of the serving counter completely, restoring uninterrupted wall and counter behind it. Then create a much tighter high-resolution portrait close-up centered on the actual small arched wine hatch. Zoom in so this small door is about 45–50 percent of the image width, rather than its current 19 percent. Preserve the exact wooden hatch design: arched inset panel, floral engraving near the top, dark handle LEFT, small brass hinges RIGHT. Preserve the burgundy Ciao! script above, the brass bell and fine chain between script and door, the recessed VINO inscription directly below the hatch, and a visible section of the wooden serving counter below VINO. Fit all of those key elements in the portrait composition, with only a little brickwork beneath the counter and only a narrow sliver of the large window at the left edge if needed. Crop away the broad left window, excess outer stone arch and most lower brickwork. Keep the same warm amber evening lighting, natural aged cream plaster and wood grain. Do not redesign the architecture, change the door, add peepholes or extra hardware, add people or add any numbers. Photorealistic, refined, sharp high-resolution architectural detail. Portrait composition approximately 3:4; new close-up, not the original wide framing.
