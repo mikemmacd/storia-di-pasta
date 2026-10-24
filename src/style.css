@@ -7,7 +7,7 @@ a:focus-visible,button:focus-visible{outline:3px solid #a14e35;outline-offset:5p
 /* Direct actions stay separate from the four signs that navigate the spaces. */
 header{position:relative;z-index:2;padding:22px 6%;display:flex;align-items:center;justify-content:space-between;gap:24px;background:#263d32;color:#f4eddf}
 .brand-lockup{display:flex;align-items:center;gap:18px;min-width:0}.brand{display:block;width:280px;min-width:0}.brand img{height:auto}
-.header-actions{display:flex;align-items:center;gap:0;flex-shrink:0}.header-actions a{width:44px;height:48px;display:flex;align-items:center;justify-content:center;border-radius:50%;transition:background .2s}.header-actions a:hover{background:#f4eddf18}.header-actions svg{width:29px;height:29px}
+.header-actions{display:flex;align-items:center;gap:0;flex-shrink:0}.header-actions a{width:44px;height:44px;flex:0 0 44px;display:flex;align-items:center;justify-content:center;border-radius:50%;transition:background .2s}.header-actions a:hover{background:#f4eddf18}.header-actions svg{width:29px;height:29px}
 /* The working wine window is a signature part of the brand. */
 .window-toggle{--window-ground:#263d32;position:relative;flex:0 0 52px;width:52px;height:64px;padding:0;cursor:pointer;border:0;background:transparent;color:#f4eddf;perspective:350px;overflow:visible}
 .window-toggle>svg{display:block;width:50px;height:60px;margin:auto;overflow:visible}.window-toggle:focus-visible{border-radius:3px}
@@ -26,7 +26,7 @@ h1,h2{font-family:Paytone,sans-serif;font-weight:400;line-height:1.15;letter-spa
 /* A simple sign-off; contact actions are available directly in the header. */
 .site-footer{background:#263d32;color:#f4eddf;display:flex;align-items:center;justify-content:space-between;gap:24px;padding:28px 6%;font-size:14px;line-height:1.6}.site-footer p{margin:0}.site-footer p>span:first-child{padding:0 8px}.site-footer small{font-size:12px;color:#d3d6c9;white-space:nowrap}
 @media(max-width:700px){
- header{padding:12px;gap:8px}.brand-lockup{gap:8px;flex:1}.brand{width:175px;flex:1;max-width:175px}.window-toggle{flex-basis:44px;width:44px;height:54px;padding:0}.header-actions{gap:0}.header-actions a{width:36px;height:44px}.header-actions svg{width:26px;height:26px}.window-toggle>svg{width:42px;height:50px}
+ header{padding:12px;gap:8px}.brand-lockup{gap:8px;flex:1}.brand{width:175px;flex:1;max-width:175px}.window-toggle{flex-basis:44px;width:44px;height:54px;padding:0}.header-actions{gap:0}.header-actions a{width:36px;height:36px;flex-basis:36px}.header-actions svg{width:26px;height:26px}.window-toggle>svg{width:42px;height:50px}
  .window-cheer{left:0;transform:translate(0,-4px)}.window-toggle[data-glass=true] .window-cheer{transform:translate(0,0)}
  .hero{min-height:530px;height:72svh;align-items:end}.hero-photo{object-position:63% center}.hero:after{background:linear-gradient(0deg,#142319f5,#14231991 65%,#14231920)}.hero-copy{padding:48px 7%}.hero-copy .eyebrow{font-size:10px;letter-spacing:1.3px}h1{font-size:clamp(38px,10.8vw,52px)}.hero-copy>p:not(.eyebrow){font-size:16px;max-width:320px;margin-top:20px}.hero-copy br{display:none}.hero h1 br{display:block}
  .intro{padding:48px 7% 20px}.intro h2{font-size:clamp(30px,8.5vw,38px)}.intro>p:last-child{font-size:16px}.intro>p:last-child br{display:none}.eyebrow{font-size:10px;letter-spacing:1.2px}
