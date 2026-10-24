@@ -52,3 +52,5 @@ Production build and desktop/mobile browser review. Zone signs are anchor links 
 ## Wine-window story
 
 The section after Il Patio introduces the Florentine buchetta del vino tradition and links to the official Visit Tuscany history. Its close-up image is a reconstruction based on the existing exterior image. Source references and the full built-in image-generation prompt are recorded in `docs/wine-window-image.md`.
+
+The wine-window feature pairs an arched portrait with the Italian name, a concise Renaissance history and three illustrated service steps: Ring the bell, Say ciao, Cin cin. A native details disclosure provides the additional 1630s history and authoritative source links. The mobile reading order is title, image, history, ritual; the existing header animation remains independent.
