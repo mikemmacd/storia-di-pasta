@@ -48,3 +48,7 @@ Production build and desktop/mobile browser review. Zone signs are anchor links 
 - Performance: responsive smaller JPEG photographs, smaller JPEG sign images, reserved photograph dimensions, lazy-loaded section images, prioritised hero and locally hosted font. Original photos and sign PNGs are retained.
 - Metadata: canonical URL, page description, social preview image, site URL/name, favicon and large-image sharing card.
 - Remaining business details: replace the street-search Maps destination with a verified venue pin; add confirmed opening hours and a current food/drinks menu or delivery link when available. Do not invent these details.
+
+## Wine-window story
+
+The section after Il Patio introduces the Florentine buchetta del vino tradition and links to the official Visit Tuscany history. Its close-up image is a reconstruction based on the existing exterior image. Source references and the full built-in image-generation prompt are recorded in `docs/wine-window-image.md`.
