@@ -58,3 +58,5 @@ The wine-window feature pairs an arched portrait with the Italian name, a concis
 Il Patio now uses the owner’s oblique exterior angle with generated evening lighting and guests, including Thai adults, and exactly three stools based on the owner’s bentwood cane-seat reference. The address plaque is removed. Only the Il Patio image changed; prompt and provenance are in `docs/il-patio-evening-v2.md` and `docs/il-patio-evening-v3.md`.
 
 The final Il Patio scene also includes two narrow freestanding timber side counters based on the owner’s furniture drawing, fitted within the existing stone platform. See `docs/il-patio-evening-v4.md`.
+
+The current Il Patio image is version 5: the real photographic angle with planned trailing vines and purple flowers, guests standing at both portable counters, and three existing cane-seat stools. The designer mockup informs planting and layout only. See `docs/il-patio-evening-v5.md`.
