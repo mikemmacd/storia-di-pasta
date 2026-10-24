@@ -56,3 +56,5 @@ The section after Il Patio introduces the Florentine buchetta del vino tradition
 The wine-window feature pairs an arched portrait with the Italian name, a concise Renaissance history and three illustrated service steps: Ring the bell, Say ciao, Cin cin. A native details disclosure provides the additional 1630s history and authoritative source links. The mobile reading order is title, image, history, ritual; the existing header animation remains independent.
 
 Il Patio now uses the owner’s oblique exterior angle with generated evening lighting and guests, including Thai adults, and exactly three stools based on the owner’s bentwood cane-seat reference. The address plaque is removed. Only the Il Patio image changed; prompt and provenance are in `docs/il-patio-evening-v2.md` and `docs/il-patio-evening-v3.md`.
+
+The final Il Patio scene also includes two narrow freestanding timber side counters based on the owner’s furniture drawing, fitted within the existing stone platform. See `docs/il-patio-evening-v4.md`.
