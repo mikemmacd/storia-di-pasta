@@ -59,6 +59,6 @@ Il Patio now uses the owner’s oblique exterior angle with generated evening li
 
 The final Il Patio scene also includes two narrow freestanding timber side counters based on the owner’s furniture drawing, fitted within the existing stone platform. See `docs/il-patio-evening-v4.md`.
 
-The current Il Patio image is version 5: the real photographic angle with planned trailing vines and purple flowers, guests standing at both portable counters, and three existing cane-seat stools. The designer mockup informs planting and layout only. See `docs/il-patio-evening-v5.md`.
+Version 5 explored planned trailing vines, purple flowers and guests at both portable counters, with the designer mockup informing planting and layout only. See `docs/il-patio-evening-v5.md`. The current image is version 6, returning to the owner’s preferred four-guest image while fixing the right counter’s full wall-to-edge length and the left guest’s body/furniture intersection; see `docs/il-patio-evening-v6.md`.
 
 The main hero and social-preview image now use `hero-exterior-v2.jpg`, matching the close-up wine hatch design, removing the address plaque and representing more Thai guests. The previous exterior asset is retained. See `docs/hero-exterior-v2.md`.
