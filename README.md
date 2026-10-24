@@ -14,9 +14,9 @@ npm run build
 
 ## Content and assets
 
-- `index.html`: concise restaurant copy, four zones, enamel-sign navigation and neighbourhood link.
+- `index.html`: concise restaurant copy, four zones, enamel-sign navigation, direct header contact actions and a compact location footer.
 - `src/style.css`: responsive styles and locally hosted brand font.
-- `src/main.js`: stylesheet import and copyright year.
+- `src/main.js`: stylesheet import, copyright year and the accessible wine-window animation.
 - `public/images/`: optimized owner-supplied photographs, logo and crops of the four enamel signs.
 - `assets/`: untouched originals, kept locally. The designer PDF is not used in the website and exceeds GitHub's ordinary file-size limit.
 
@@ -37,3 +37,14 @@ Cloudflare manages DNS. The root domain uses a DNS-only CNAME pointing to the de
 ## Validation
 
 Production build and desktop/mobile browser review. Zone signs are anchor links to the corresponding photographed spaces. No menu pricing or unverified 'Bangkok’s first' claim is published.
+
+## Design and usability review — 24 October 2026
+
+- Header: direct Maps, email and Facebook links with accessible names, tooltips and 40 × 44px mobile touch targets. No contact detour or redundant navigation. The wine window is a smaller accent beside the original wordmark.
+- Navigation: four signs remain the destinations for the four spaces. No empty menu, booking or delivery links are published.
+- Content: one H1, clear section headings, owner-selected photographs, readable 16px body copy on mobile and restrained italic accents.
+- Footer: plain restaurant name, location and copyright. No second panel of contact buttons.
+- Accessibility: visible keyboard focus, working skip link, hidden decorative SVGs, labelled icon links and reduced-motion support. Animation runs once after two seconds, can be replayed and resets when the page is hidden. This is a targeted review, not a formal accessibility certification.
+- Performance: responsive smaller JPEG photographs, smaller JPEG sign images, reserved photograph dimensions, lazy-loaded section images, prioritised hero and locally hosted font. Original photos and sign PNGs are retained.
+- Metadata: canonical URL, page description, social preview image, site URL/name, favicon and large-image sharing card.
+- Remaining business details: replace the street-search Maps destination with a verified venue pin; add confirmed opening hours and a current food/drinks menu or delivery link when available. Do not invent these details.
