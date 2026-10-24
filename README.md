@@ -40,7 +40,7 @@ Production build and desktop/mobile browser review. Zone signs are anchor links 
 
 ## Design and usability review — 24 October 2026
 
-- Header: direct Maps, email and Facebook links with accessible names, tooltips and 40 × 44px mobile touch targets. No contact detour or redundant navigation. The wine window is a smaller accent beside the original wordmark.
+- Header: direct Maps, email and Facebook links with accessible names, tooltips and 36 × 44px mobile touch targets. No contact detour or redundant navigation. The wine window remains a prominent animated signature beside the larger original wordmark; contact icons are larger and tightly grouped, with Maps first.
 - Navigation: four signs remain the destinations for the four spaces. No empty menu, booking or delivery links are published.
 - Content: one H1, clear section headings, owner-selected photographs, readable 16px body copy on mobile and restrained italic accents.
 - Footer: plain restaurant name, location and copyright. No second panel of contact buttons.
