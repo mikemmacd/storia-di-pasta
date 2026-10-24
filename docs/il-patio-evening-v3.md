@@ -1,0 +1,11 @@
+# Il Patio: actual stools and no address plaque
+
+Edited using built-in image generation. Target: `public/images/patio-evening-v2.jpg`. Furniture reference: the owner's Photo 1.jpg, saved locally as `assets/branding/patio-stool-reference.jpg`.
+
+The selected result contains exactly three backless bentwood stools with round cane seats at the counter, two occupied and one empty. The address plaque is removed. Previous evening lighting, people and facade are preserved as closely as possible.
+
+Website assets: `public/images/patio-evening-v3.jpg` and `public/images/patio-evening-v3-small.jpg`.
+
+## Final edit prompt
+
+Precise edit. Image 1 is the restaurant scene to edit; Image 2 is the exact furniture reference only. Add EXACTLY THREE of the reference stools in a neat, plausible row on the stone step in front of the existing wooden counter beneath the central serving window. Match the reference stool design faithfully: backless tall dark honey-brown bentwood bar stool, round woven cane/rattan seat in a thick circular wooden rim, four slender curved bentwood legs, curved under-seat supports and circular footrest ring. No backrests, no metal, no square seats. Perspective, stool size relative to counter and people, warm lighting and contact shadows must be physically convincing. Ensure all THREE are identifiable and naturally spaced along the counter, not placed in front of the entrance door. You may seat the central man in dark polo on one stool facing the counter and gently reposition the woman by the tiny wine hatch enough for the three-stool row to fit; keep the left two chatting friends and their faces/outfits unchanged. Preserve all other people, the exact building and camera angle, warm evening lighting, glowing STORIA DI PASTA sign, green shutters, pendant, plants, small arched wine hatch with staff serving from inside, timber counter and brickwork. ALSO remove the small 593/25 wooden address plaque from the counter completely; restore clean uninterrupted timber and background where it was, and do not put any number plaque anywhere else. Do not remove the Ciao! lettering or the VINO engraving. Keep full portrait composition and photographic realism. Change only the furniture addition, tiny necessary people positioning, and removal of the address plaque.
